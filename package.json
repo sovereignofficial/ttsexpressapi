@@ -10,7 +10,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@google-cloud/text-to-speech": "^4.2.2",
     "express": "^4.18.2",
     "google-tts-api": "^2.0.2",
     "nodemon": "^2.0.22"
