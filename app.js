@@ -32,4 +32,5 @@ app.post('/tts', (req, res) => {
     res.status(200).send({audioUrl})
 })
 
+module.exports = app
 
